@@ -27,7 +27,7 @@ int reverse(int x) {
     int32_t result = 0;
     int pop;
 
-    // 检查输入值是否在−2<sup>31</sup>,  2<sup>31</sup> − 1之间，避免溢出
+    // 检查输入值已经溢出
     if (x <= INT_MIN || x > INT_MAX)
         return 0;
     
