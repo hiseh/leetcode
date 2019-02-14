@@ -1,4 +1,6 @@
 # 整数反转
+[返回首页](../README.md)
+
 ## Python
 利用Python自带的数组操作，5分钟搞定：
 ```python
@@ -51,3 +53,4 @@ int reverse(int x) {
     return result;
 }
 ```
+[返回首页](../README.md)
