@@ -18,7 +18,7 @@ return result if -2**31 <= result <= 2**31-1 else 0
 ---
 
 ## C
-c语言缺少python那么有好的api，不能直接借鉴python的思路。我的思路是在循环里用求模方式从后往前取出每个数字，然后再拼成一个心的整数：
+c语言缺少python那么有好的api，不能直接借鉴python的思路。我的思路是在循环里用求模方式从后往前取出每个数字，然后再拼成一个新的整数：
 ```c
 #include <limits.h>
 #include <stdlib.h>
