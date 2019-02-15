@@ -3,23 +3,27 @@
 
 首先题目中说了，输入条件是4个数字组成的数组，那么排列一遍也不过有4!种可能，空间和时间占用上限都不大，可以接受。
 ## Python
-利用Python标准库里的itertools模块，轻易搞定。
+利用Python标准库里的itertools模块，轻松搞定。
 ```python
-# -1表示不能组成有效时间
-result = -1
+import itertools
 
-# 排列输入数组，获得数组中4个数字作为小时和分钟数
-for h1, h2, m1, m2 in itertools.permutations(A):
-    hours = 10 * h1 + h2
-    mins = 10 * m1 + m2
+class Solution:
+    def largestTimeFromDigits(self, A: 'List[int]') -> 'str'
+    # -1表示不能组成有效时间
+    result = -1
 
-    # 拼出总时间，通过总时间检查是否是最大时间
-    time = 60 * hours + mins
-    if 0 < hours < 24 and 0 < mins < 60 and time > result:
-        result = time
+    # 排列输入数组，获得数组中4个数字作为小时和分钟数
+    for h1, h2, m1, m2 in itertools.permutations(A):
+        hours = 10 * h1 + h2
+        mins = 10 * m1 + m2
 
-# 格式化输出
-return '{:02}:{:02}'.format(*divmod(result, 60)) if result > -1 else ''
+        # 拼出总时间，通过总时间检查是否是最大时间
+        time = 60 * hours + mins
+        if 0 < hours < 24 and 0 < mins < 60 and time > result:
+            result = time
+
+    # 格式化输出
+    return '{:02}:{:02}'.format(*divmod(result, 60)) if result > -1 else ''
 ```
 ---
 
