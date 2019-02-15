@@ -3,7 +3,7 @@
 
 ## Python
 Python自带zip函数，如果将可迭代的对象作为参数，会把对象中对应的元素打包成一个个tuple，然后返回由这些tuple组成的列表。
-如果各个迭代器的元素个数不一致，则返回列表长度与最短的对象相同。
+如果各个迭代器的元素个数不一致，则按着最短字符串长度打包。
 ```python
 class Solution:
     def longestCommonPrefix(self, strs):
