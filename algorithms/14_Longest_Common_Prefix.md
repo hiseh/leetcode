@@ -43,19 +43,20 @@ char* longestCommonPrefix(char** strs, int strsSize) {
     // 假定第一个字符串是公共前缀
     char* prefix = strs[0];
     for (int i = 1; i < strsSize; i++) {
-        // 检查当前字符串是否包含当前的公共前缀
+        // 检查当前字符串是否包含了公共前缀
         char* found = strstr(strs[i], prefix);
 
-        // 如果不包含或第一个字符不相同，说明这个公共前缀太长了
+        // 如果不包含或第一个字符不相同，说明这个公共前缀可能太长了
         if (found == NULL || found > strs[i]) {
-            // 循环缩短它，直到在当前字符串中从0开始包含了公共前缀
+            // 循环缩短它，直到在当前字符串从0开始包含了公共前缀
             while (strstr(strs[i], prefix) != strs[i]) {
-                // 没找到公共前缀
+                
+                // 没找到公共前缀，返回空字符串
                 if (strlen(prefix) == 1) {
                     return "";
                 }
 
-                // 缩短公共前缀
+                // 缩短公共前缀。注意，此处不能释放内存
                 char* tmp = (char*)malloc(sizeof(char) * (strlen(prefix) - 1));
                 strncpy(tmp, prefix, strlen(prefix) - 1);
                 prefix = tmp;
