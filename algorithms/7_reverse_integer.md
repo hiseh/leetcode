@@ -2,7 +2,7 @@
 [返回首页](../README.md)
 
 ## Python
-利用Python自带的数组操作，5分钟搞定：
+利用Python自带的slice notation，5分钟搞定：
 ```python
 # 先将数字转为字符串，然后反转字符串
 m_str = str(x)[::-1]
