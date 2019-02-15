@@ -3,7 +3,7 @@
 
 首先题目中说了，输入条件是4个数字组成的数组，那么排列一遍也不过有4!种可能，空间和时间占用上限都不大，可以接受。
 ## Python
-利用Python标准库里的itertools模块，轻易可以实现。
+利用Python标准库里的itertools模块，轻易搞定。
 ```python
 # -1表示不能组成有效时间
 result = -1
@@ -24,7 +24,7 @@ return '{:02}:{:02}'.format(*divmod(result, 60)) if result > -1 else ''
 ---
 
 ## C
-c标准库里没有排列函数，自己实现一个。考虑到最多就是24种组合，用递归方式实现最简单，都不用优化成尾递归。除了排列函数，其它部分逻辑可照搬Python的：
+c标准库里没有排列函数，自己实现一个。考虑到最多就是24种组合，用递归方式实现最简单，都不用优化成尾递归。除了排列函数，其它部分逻辑可照搬Python的。
 排列算法也不复杂，借鉴打枪法（闺女奥数课的术语，很形象）思路，让元素两两交换位置。用递归方式实现的思路如下，这种方式不会过滤掉重复的排列：
 ![递归](https://www.geeksforgeeks.org/wp-content/uploads/NewPermutation.gif)
 ```c
@@ -81,8 +81,7 @@ char* largestTimeFromDigits(int* A, int ASize) {
         int hours = 10 * h1 + h2;
         int mins = 10 * m1 + m2;
         int times = 60 * hours + mins;
-        if ((hours < 24 && hours > 0) && (mins > 0 && mins < 60) &&
-            (times > result)) {
+        if ((hours < 24 && hours > 0) && (mins > 0 && mins < 60) && (times > result)) {
             result = times;
         }
     }
