@@ -44,7 +44,7 @@ class Solution:
 ---
 
 ## C
-思路与Python一样，这里用链表实现栈。
+思路与Python一样，这里用链表实现栈。如果考虑用空间换时间，可以用数组来实现栈，数组长度就设定为`(strlen(s) + 1) / 2`。
 ```c
 #include <stdbool.h>
 #include <stdlib.h>
