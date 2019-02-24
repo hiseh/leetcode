@@ -10,6 +10,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Python](./algorithms/13_roman_to_integer.md#Python)/[C](./algorithms/13_roman_to_integer.md#C)|128ms/44ms|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Python](./algorithms/14_Longest_Common_Prefix.md#Python)/[C](./algorithms/14_Longest_Common_Prefix.md#C)|36ms/4ms|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](./algorithms/20_valid_parentheses.md#Python)/[C](./algorithms/20_valid_parentheses.md#C)|36ms/0ms|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./algorithms/26_remove_duplicates_from_sorted_array.md#Python)/[C](./algorithms/26_remove_duplicates_from_sorted_array.md#C)|56ms/8ms|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits)|[Python](./algorithms/190_reverse_bits.md#Python)/[C](./algorithms/190_reverse_bits.md#C)|24ms/4ms|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](./algorithms/203_remove_linked_list_elements.md#Python)/[C](./algorithms/203_remove_linked_list_elements.md#C)|80ms/4ms|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Python](./algorithms/605_can_place_flowers.md#Python)/[C](./algorithms/605_can_place_flowers.md#C)|48ms/8ms|
