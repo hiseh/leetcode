@@ -12,6 +12,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](./algorithms/20_valid_parentheses.md#Python)/[C](./algorithms/20_valid_parentheses.md#C)|36ms/0ms|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./algorithms/26_remove_duplicates_from_sorted_array.md#Python)/[C](./algorithms/26_remove_duplicates_from_sorted_array.md#C)|56ms/8ms|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](./algorithms/35_search_insert_position.md#Python)/[C](./algorithms/35_search_insert_position.md#C)|36ms/0ms|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./algorithms/121_best_time_to_buy_and_sell_stock.md#Python)/[C](./algorithms/121_best_time_to_buy_and_sell_stock.md#C)|44ms/0ms|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits)|[Python](./algorithms/190_reverse_bits.md#Python)/[C](./algorithms/190_reverse_bits.md#C)|24ms/4ms|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](./algorithms/203_remove_linked_list_elements.md#Python)/[C](./algorithms/203_remove_linked_list_elements.md#C)|80ms/4ms|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Python](./algorithms/605_can_place_flowers.md#Python)/[C](./algorithms/605_can_place_flowers.md#C)|48ms/8ms|
