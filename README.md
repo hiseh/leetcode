@@ -16,6 +16,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits)|[Python](./algorithms/190_reverse_bits.md#Python)/[C](./algorithms/190_reverse_bits.md#C)|24ms/4ms|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](./algorithms/203_remove_linked_list_elements.md#Python)/[C](./algorithms/203_remove_linked_list_elements.md#C)|80ms/4ms|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./algorithms/206_reverse_linked_list.md#Python)/[C](./algorithms/206_reverse_linked_list.md#C)|44ms/0ms|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./algorithms/217_contains_duplicate.md#Python)/[C](./algorithms/217_contains_duplicate.md#C)|44ms/8ms|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Python](./algorithms/605_can_place_flowers.md#Python)/[C](./algorithms/605_can_place_flowers.md#C)|48ms/8ms|
 |704|[Binary Search](https://leetcode.com/problems/binary-search)|[Python](./algorithms/704_binary_search.md#Python)/[C](./algorithms/704_binary_search.md#C)|48ms/12ms|
 |949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)|[Python](./algorithms/949_largest_time_for_given_digits.md#Python)/[C](./algorithms/949_largest_time_for_given_digits.md#Python)|40ms/0ms|
