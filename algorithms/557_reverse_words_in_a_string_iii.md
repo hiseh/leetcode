@@ -1,10 +1,9 @@
 # 反转字符串中的单词 III
+[返回首页](../README.md)
+
 给定一个字符串，反转字符串中每个单词的字符顺序，同时仍保留空格和单词的初始顺序。
 > 输入: "Let's take LeetCode contest"<br/>
 > 输出: "s'teL ekat edoCteeL tsetnoc" 
-
-
-[返回首页](../README.md)
 
 ## Python
 还记得Python伟大的slice notation吧，一行搞定
