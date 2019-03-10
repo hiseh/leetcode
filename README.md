@@ -24,6 +24,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Python](./algorithms/557_reverse_words_in_a_string_iii.md#Python)/[C](./algorithms/557_reverse_words_in_a_string_iii.md#C)|40ms/4ms|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Python](./algorithms/566_reshape_the_matrix.md#Python)/[C](./algorithms/566_reshape_the_matrix.md#C)|80ms/12ms|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Python](./algorithms/605_can_place_flowers.md#Python)/[C](./algorithms/605_can_place_flowers.md#C)|48ms/8ms|
+|674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](./algorithms/674_Longest_Continuous_Increasing_Subsequence.md#Python)/[C](./algorithms/674_Longest_Continuous_Increasing_Subsequence.md#C)|48ms/8ms|
 |704|[Binary Search](https://leetcode.com/problems/binary-search)|[Python](./algorithms/704_binary_search.md#Python)/[C](./algorithms/704_binary_search.md#C)|48ms/12ms|
 |949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)|[Python](./algorithms/949_largest_time_for_given_digits.md#Python)/[C](./algorithms/949_largest_time_for_given_digits.md#Python)|40ms/0ms|
 
