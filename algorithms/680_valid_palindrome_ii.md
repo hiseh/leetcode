@@ -13,7 +13,7 @@ class Solution:
             # 检查对称的元素是否相等
             if s[i] != s[~i]:
                 j = len(s) - 1 - i
-                # 分别尝试去掉一个边界元素，检查边界内元素是否是回文
+                # 分别尝试去掉左右边界元素，检查边界内元素是否是回文
                 return is_pali_range(i + 1, j) or is_pali_range(i, j - 1)
         return True
 ```

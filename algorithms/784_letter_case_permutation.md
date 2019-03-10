@@ -11,15 +11,15 @@
 > **输入:** S = "12345"
 > **输出:** ["12345"]
 
-如果将每个字母可区分成大/小写形式，位置不变，最后组成所有的可能不就是笛卡尔积吗？最后把生成的每个笛卡尔积结果拼成字符串返回即可。
+如果将每个字母可区分成大/小写形式，位置不变，最后组成所有的可能，不就是笛卡尔积吗？最后把生成的每个笛卡尔积结果拼成字符串返回即可。
 ## Python
-时间复杂度O(n!)
+利用库函数，轻松搞定。
 ```python
 import itertools
 
 class Solution:
     def letterCasePermutation_1(self, S: str) -> list[str]:
-        # 如果是字母，转成一个纯大写，一个纯小写的二维集合，否则就是本身
+        # 如果是字母，转成一个大写，一个小写的集合，否则就是本身。这就是所有可能，把所有可能集合保存在数组中。
         pattern = [(c.upper(), c.lower()) if c.isalpha() else c for c in S]
 
         # 计算笛卡尔积，并把每个结果都拼成字符串，组成数组返回
@@ -62,13 +62,14 @@ void cartProduct(char** pattern,
         // 遍历大小写集合
         for (int i = 0; i < patternLengths[times]; i++) {
 
-            // 依次尝试各种有序组合
+            // 依次尝试所有有序组合
             currentSet[times] = pattern[times][i];
             cartProduct(pattern, patternLengths, currentSet, patternSize,
                         times + 1, result, resultI);
         }
     }
 }
+
 char** letterCasePermutation(char* S, int* returnSize) {
     int SSize = strlen(S);
 
