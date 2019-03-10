@@ -31,6 +31,7 @@ class Solution:
 ---
 
 ## C
+思路同Python
 ```c
 /**
  * Return an array of arrays of size *returnSize.
