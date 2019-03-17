@@ -28,5 +28,6 @@ LeetCode Problems' Solutions using python &amp; c languages
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Python](./algorithms/680_valid_palindrome_ii.md#Python)/[C](./algorithms/680_valid_palindrome_ii.md#C)|256ms/24ms|
 |704|[Binary Search](https://leetcode.com/problems/binary-search)|[Python](./algorithms/704_binary_search.md#Python)/[C](./algorithms/704_binary_search.md#C)|48ms/12ms|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python](./algorithms/784_letter_case_permutation.md#Python)/[C](./algorithms/784_letter_case_permutation.md#C)|68ms/32ms|
+|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Python](./algorithms/811_subdomain_visit_count.md#Python)/[C](./algorithms/811_subdomain_visit_count.md#C)|60ms/16ms|
 |949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)|[Python](./algorithms/949_largest_time_for_given_digits.md#Python)/[C](./algorithms/949_largest_time_for_given_digits.md#Python)|40ms/0ms|
 
