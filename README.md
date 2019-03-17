@@ -32,4 +32,5 @@ LeetCode Problems' Solutions using python &amp; c languages
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Python](./algorithms/821_shortest_distance_to_a_character.md#Python)/[C](./algorithms/821_shortest_distance_to_a_character.md#C)|48ms/8ms|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Python](./algorithms/922_sort_array_by_parity_ii.md#Python)/[C](./algorithms/922_sort_array_by_parity_ii.md#C)|124ms/20ms|
 |949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)|[Python](./algorithms/949_largest_time_for_given_digits.md#Python)/[C](./algorithms/949_largest_time_for_given_digits.md#Python)|40ms/0ms|
+|976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Python](./algorithms/976_largest_perimeter_triangle.md#Python)/[C](./algorithms/976_largest_perimeter_triangle.md#Python)|72ms/24ms|
 
