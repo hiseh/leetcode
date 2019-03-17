@@ -87,8 +87,7 @@ char** subdomainVisits(char** cpdomains, int cpdomainsSize, int* returnSize) {
                 tmp = (result_h*)malloc(sizeof(result_h));
                 tmp->domain = domain;
                 tmp->visit = visit;
-                HASH_ADD_KEYPTR(hh, result, tmp->domain, strlen(tmp->domain),
-                                tmp);
+                HASH_ADD_KEYPTR(hh, result, tmp->domain, strlen(tmp->domain), tmp);
 
                 (*returnSize)++;
             } else {
