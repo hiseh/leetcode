@@ -104,9 +104,8 @@ char** subdomainVisits(char** cpdomains, int cpdomainsSize, int* returnSize) {
     int i = 0;
     HASH_ITER(hh, result, domain_h, tmp) {
         // 在调用者中释放
-        char* result_str = (char*)malloc((floor(log10f(domain_h->visit) + 1) +
-                                          strlen(domain_h->domain) + 2) *
-                                         sizeof(char));
+        // 最后+2是要加上空格和字符串结尾
+        char* result_str = (char*)malloc((floor(log10f(domain_h->visit) + 1) + strlen(domain_h->domain) + 2) * sizeof(char));
 
         sprintf(result_str, "%d %s", domain_h->visit, domain_h->domain);
         return_p[i++] = result_str;
