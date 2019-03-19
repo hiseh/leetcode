@@ -19,6 +19,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./algorithms/217_contains_duplicate.md#Python)/[C](./algorithms/217_contains_duplicate.md#C)|44ms/8ms|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Python](./algorithms/225_implement_stack_using_queues.md#Python)/[C](./algorithms/225_implement_stack_using_queues.md#C)|36ms/0ms|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](./algorithms/228_Summary_Ranges.md#Python)/[C](./algorithms/228_Summary_Ranges.md#C)|36ms/ms|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Python](./algorithms/263_Ugly_Number.md#Python)/[C](./algorithms/263_Ugly_Number.md#C)|56ms/4ms|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python](./algorithms/235_lowest_common_ancestor_of_a_binary_search_tree.md#Python)/[C](./algorithms/235_lowest_common_ancestor_of_a_binary_search_tree.md#C)|88ms/40ms|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Python](./algorithms/367_valid_perfect_square.md#Python)/[C](./algorithms/367_valid_perfect_square.md#C)|36ms/0ms|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Python](./algorithms/371_sum_of_two_integers.md#Python)/[C](./algorithms/371_sum_of_two_integers.md#C)|32ms/0ms|
