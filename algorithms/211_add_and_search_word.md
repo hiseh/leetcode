@@ -29,7 +29,7 @@ class WordDictionary:
         """
         node = self.root
         for c in word:
-            # 如果这是当前路径下新的字符，则创建一个{c: {}}的字典，否则返回当前itme
+            # 如果这是当前路径下新的字符，则创建一个{c: {}}的item，否则返回当前item
             node = node.setdefault(c, {})
         node['$'] = None  # 单词结束标志
 
@@ -41,7 +41,7 @@ class WordDictionary:
         nodes = [self.root]
 
         # 1、找到当前层次的k-v对，赋给node；
-        # 2、在node中查找key，如果c在node的key中，则返回node[c]，否则返回第三步结果
+        # 2、如果c在node的key中，则返回node[c]，否则返回第三步结果
         # 3、如果c == '.'，那么返回所有不为None的value，否则返回[]
         # 4、将查找到的item保存至nodes
         for c in '{}$'.format(word):
