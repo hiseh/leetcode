@@ -16,6 +16,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits)|[Python](./algorithms/190_reverse_bits.md#Python)/[C](./algorithms/190_reverse_bits.md#C)|24ms/4ms|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Python](./algorithms/203_remove_linked_list_elements.md#Python)/[C](./algorithms/203_remove_linked_list_elements.md#C)|80ms/4ms|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](./algorithms/206_reverse_linked_list.md#Python)/[C](./algorithms/206_reverse_linked_list.md#C)|44ms/0ms|
+|211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Python](./algorithms/211_add_and_search_word.md#Python)/[C](./algorithms/211_add_and_search_word.md#C)|260ms/ms|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./algorithms/217_contains_duplicate.md#Python)/[C](./algorithms/217_contains_duplicate.md#C)|44ms/8ms|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Python](./algorithms/225_implement_stack_using_queues.md#Python)/[C](./algorithms/225_implement_stack_using_queues.md#C)|36ms/0ms|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Python](./algorithms/228_Summary_Ranges.md#Python)/[C](./algorithms/228_Summary_Ranges.md#C)|36ms/ms|
