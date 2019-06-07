@@ -29,7 +29,7 @@ class WordDictionary:
         """
         node = self.root
         for c in word:
-            # 如果这是当前路径下新的字符，则创建一个{c: {}}的item，否则返回当前item
+            # 如果这是当前路径下新的字符，则创建一个k-v为c: {}的item，否则返回当前item
             node = node.setdefault(c, {})
         node['$'] = None  # 单词结束标志
 
