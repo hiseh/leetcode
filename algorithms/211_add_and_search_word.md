@@ -6,7 +6,8 @@
 void addWord(word)
 bool search(word)
 ```
-`search(word)`可以搜索文字或正则表达式字符串，字符串只包含字母`.`或`a-z`。 `.`可以表示任何一个字母。
+> `search(word)`可以搜索文字或正则表达式字符串，字符串只包含字母`.`或`a-z`。 
+> `.`可以表示任何一个字母。此处比较麻烦，要保存所有可能。
 
 最简单的办法是用Hash表，理论上查找效率为Θ(1)，但Hash表如果遇到冲突会严重影响效率，所以这种字符串搜索应该用[**Trie树**](https://baike.baidu.com/item/字典树/9825209?fr=aladdin#5_2)。它的特点就是从根到某个节点，把路径上的字符连起来就是要查找的字符串，用空间换时间，插入和搜索效率都是Θ(n)，通常高于哈希表。<br>![Trie tree](https://odhyan.com/blog/wp-content/uploads/2010/11/trie-example.png)<br>根据题目要求，只需要实现插入和搜索两个函数即可。
 
