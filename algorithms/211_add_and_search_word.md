@@ -54,6 +54,75 @@ class WordDictionary:
 ---
 
 ## C
+思路类似Python
 ```c
+#include <stdbool.h>
+#include <stdlib.h>
+
+typedef struct WordDictionary {
+    char c;
+
+    // 26个字母+结束标志'\0'
+    struct WordDictionary* son[27];
+} WordDictionary;
+
+/** Initialize your data structure here. */
+WordDictionary* wordDictionaryCreate() {
+    WordDictionary* obj = (WordDictionary*)malloc(sizeof(WordDictionary));
+    obj->c = '\0';
+    memset(obj->son, 0, sizeof(obj->son));
+    return obj;
+}
+
+/** Adds a word into the data structure. */
+void wordDictionaryAddWord(WordDictionary* obj, char* word) {
+    if (*word == '\0') {
+        obj->son[26] = wordDictionaryCreate();
+        obj->son[26]->c = '\0';
+        return;
+    }
+    if (obj->son[*word - 'a'] == NULL) {
+        obj->son[*word - 'a'] = wordDictionaryCreate();
+        obj->son[*word - 'a']->c = *word;
+        wordDictionaryAddWord(obj->son[*word - 'a'], word + 1);
+    } else {
+        wordDictionaryAddWord(obj->son[*word - 'a'], word + 1);
+    }
+}
+
+/** Returns if the word is in the data structure. A word could contain the dot
+ * character '.' to represent any one letter. */
+bool wordDictionarySearch(WordDictionary* obj, char* word) {
+    if (*word == '\0') {
+        if (obj->son[26] != NULL)
+            return true;
+        else
+            return false;
+    }
+    if (*word == '.') {
+        for (int i = 0; i < 26; i++) {
+            if (obj->son[i] != NULL) {
+                if (wordDictionarySearch(obj->son[i], word + 1))
+                    return true;
+            }
+        }
+    } else {
+        if (obj->son[*word - 'a'] == NULL) {
+            return false;
+        } else {
+            return wordDictionarySearch(obj->son[*word - 'a'], word + 1);
+        }
+    }
+    return false;
+}
+
+void wordDictionaryFree(WordDictionary* obj) {
+    if (obj != NULL) {
+        for (int i = 0; i < 26; i++) {
+            wordDictionaryFree(obj->son[i]);
+        }
+        free(obj);
+    }
+}
 ```
 [返回首页](../README.md)

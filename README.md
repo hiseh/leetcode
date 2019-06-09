@@ -16,7 +16,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |190|[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits)|[Python](./algorithms/190_reverse_bits.md#Python)/[C](./algorithms/190_reverse_bits.md#C)|24ms/4ms|
 |203|[移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[Python](./algorithms/203_remove_linked_list_elements.md#Python)/[C](./algorithms/203_remove_linked_list_elements.md#C)|80ms/4ms|
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[Python](./algorithms/206_reverse_linked_list.md#Python)/[C](./algorithms/206_reverse_linked_list.md#C)|44ms/0ms|
-|211|[添加与搜索单词 - 数据结构设计](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)|[Python](./algorithms/211_add_and_search_word.md#Python)/[C](./algorithms/211_add_and_search_word.md#C)|260ms/ms|
+|211|[添加与搜索单词 - 数据结构设计](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/)|[Python](./algorithms/211_add_and_search_word.md#Python)/[C](./algorithms/211_add_and_search_word.md#C)|260ms/56ms|
 |217|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)|[Python](./algorithms/217_contains_duplicate.md#Python)/[C](./algorithms/217_contains_duplicate.md#C)|44ms/8ms|
 |225|[用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)|[Python](./algorithms/225_implement_stack_using_queues.md#Python)/[C](./algorithms/225_implement_stack_using_queues.md#C)|36ms/0ms|
 |228|[汇总区间](https://leetcode-cn.com/problems/summary-ranges/)|[Python](./algorithms/228_Summary_Ranges.md#Python)/[C](./algorithms/228_Summary_Ranges.md#C)|36ms/8ms|
