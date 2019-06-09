@@ -54,7 +54,7 @@ class WordDictionary:
 ---
 
 ## C
-思路类似Python
+思路类似Python，为了方便代码，预先把所有可能的子节点（27个）都占用了，所以这种方式比较费内存。运行时占用43.9MB内存，比Python还多（Python占了21.9MB）。
 ```c
 #include <stdbool.h>
 #include <stdlib.h>
