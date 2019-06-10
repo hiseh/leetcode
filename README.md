@@ -2,7 +2,7 @@
 LeetCode Problems' Solutions using python &amp; c languages
 
 ## Algorithm
-|#|Title|Solutions|Runtime|
+|#|题目|答案|耗时|
 |--------|--------|--------|-------|
 |1|[两数之和](https://leetcode-cn.com/problems/two-sum)|[Python](./algorithms/1_two_sum.md#Python)/[C](./algorithms/1_two_sum.md#C)|40ms/4ms|
 |7|[整数反转](https://leetcode-cn.com/problems/reverse-integer)|[Python](./algorithms/7_reverse_integer.md#Python)/[C](./algorithms/7_reverse_integer.md#C)|52ms/12ms|
@@ -11,6 +11,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix)|[Python](./algorithms/14_Longest_Common_Prefix.md#Python)/[C](./algorithms/14_Longest_Common_Prefix.md#C)|36ms/4ms|
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)|[Python](./algorithms/20_valid_parentheses.md#Python)/[C](./algorithms/20_valid_parentheses.md#C)|36ms/0ms|
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[Python](./algorithms/26_remove_duplicates_from_sorted_array.md#Python)/[C](./algorithms/26_remove_duplicates_from_sorted_array.md#C)|56ms/8ms|
+|28|[实现strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[Python](./algorithms/28_implement_strstr.md#Python)/[C](./algorithms/28_implement_strstr.md#C)|32ms/264ms|
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|[Python](./algorithms/35_search_insert_position.md#Python)/[C](./algorithms/35_search_insert_position.md#C)|36ms/0ms|
 |121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./algorithms/121_best_time_to_buy_and_sell_stock.md#Python)/[C](./algorithms/121_best_time_to_buy_and_sell_stock.md#C)|44ms/0ms|
 |190|[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits)|[Python](./algorithms/190_reverse_bits.md#Python)/[C](./algorithms/190_reverse_bits.md#C)|24ms/4ms|
