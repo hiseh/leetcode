@@ -13,6 +13,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[Python](./algorithms/26_remove_duplicates_from_sorted_array.md#Python)/[C](./algorithms/26_remove_duplicates_from_sorted_array.md#C)|56ms/8ms|
 |28|[实现strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[Python](./algorithms/28_implement_strstr.md#Python)/[C](./algorithms/28_implement_strstr.md#C)|32ms/264ms|
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|[Python](./algorithms/35_search_insert_position.md#Python)/[C](./algorithms/35_search_insert_position.md#C)|36ms/0ms|
+|112|[路径总和](https://leetcode-cn.com/problems/path-sum/)|[Python](./algorithms/112_path_sum.md#Python)/[C](./algorithms/112_path_sum.md#C)|44ms/4ms|
 |121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./algorithms/121_best_time_to_buy_and_sell_stock.md#Python)/[C](./algorithms/121_best_time_to_buy_and_sell_stock.md#C)|44ms/0ms|
 |190|[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits)|[Python](./algorithms/190_reverse_bits.md#Python)/[C](./algorithms/190_reverse_bits.md#C)|24ms/4ms|
 |203|[移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[Python](./algorithms/203_remove_linked_list_elements.md#Python)/[C](./algorithms/203_remove_linked_list_elements.md#C)|80ms/4ms|
