@@ -33,6 +33,7 @@ C当然不会有像python那么高大上的数字处理机制了，因此必须�
  */
 
 #include <stdlib.h>
+#include <math.h>
 
 int* addToArrayForm(int* A, int ASize, int K, int* returnSize) {
     // K的长度
