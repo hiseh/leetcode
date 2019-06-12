@@ -36,9 +36,7 @@ C当然不会有像python那么高大上的数字处理机制了，因此必须�
 
 int* addToArrayForm(int* A, int ASize, int K, int* returnSize) {
     // K的长度
-    int k_size = 0;
-    for (int i = K; i > 0; i /= 10)
-        k_size++;
+    int KSize = floor(log10f(K) + 1);
 
     // 返回数组的长度，因为是加法，所以最多进一位
     int tmp_size = (k_size > ASize) ? (k_size + 1) : (ASize + 1);
