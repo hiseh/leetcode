@@ -62,7 +62,7 @@ char** commonChars(char** A, int ASize, int* returnSize) {
     }
 
     // 1、如果hash表中无当前字符，则删除hash中的元素
-    // 2、如果hash表中有当前字符，则+1
+    // 2、如果hash表中有当前字符，则取最小交集
     for (int i = 0; i < ASize; i++) {
         tmp = NULL;
         item = NULL;
