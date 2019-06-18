@@ -41,4 +41,4 @@ LeetCode Problems' Solutions using python &amp; c languages
 |949|[给定数字能组成的最大时间](https://leetcode-cn.com/problems/largest-time-for-given-digits/)|[Python](./algorithms/949_largest_time_for_given_digits.md#Python)/[C](./algorithms/949_largest_time_for_given_digits.md#C)|40ms/0ms|
 |976|[三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/)|[Python](./algorithms/976_largest_perimeter_triangle.md#Python)/[C](./algorithms/976_largest_perimeter_triangle.md#C)|72ms/24ms|
 |989|[数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|[Python](./algorithms/989_add_to_array_form_of_integer.md#Python)/[C](./algorithms/989_add_to_array_form_of_integer.md#C)|224ms/80ms|
-|1002|[查找常用字符](https://leetcode-cn.com/problems/find-common-characters/submissions/)|[Python](./algorithms/1002_find_common_characters.md#Python)/[C](./algorithms/1002_find_common_characters.md#C)|48ms/ms|
+|1002|[查找常用字符](https://leetcode-cn.com/problems/find-common-characters/submissions/)|[Python](./algorithms/1002_find_common_characters.md#Python)/[C](./algorithms/1002_find_common_characters.md#C)|48ms/8ms|
