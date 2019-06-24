@@ -12,7 +12,7 @@ class Solution:
         '''
         参考官网文档Counter类的例子：两个Counter对象按位与，可以返回其交集。最后的结果就是所有字符串中都包含的公共字符。
 
-        一个更易理解的方式：
+        更易理解的写法：
         c = collections.Counter(A[0])
         for word in A:
             c &= collections.Counter(word)
