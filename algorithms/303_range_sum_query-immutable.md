@@ -2,7 +2,7 @@
 [返回首页](../README.md)
 
 ## Python
-不考虑性能的话，Python一行搞定。而且这一行内存占用是Θ(1)，算是省内存非CPU吧。
+不考虑性能的话，Python一行搞定。而且这一行内存占用是Θ(1)，算是省内存废CPU吧。
 ```python
 class NumArray:
     def __init__(self, nums: list):
