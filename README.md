@@ -28,6 +28,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |303|[区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)|[Python](./algorithms/303_range_sum_query-immutable.md#Python)/[C](./algorithms/303_range_sum_query-immutable.md#C)|1462ms/20ms|
 |367|[有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/)|[Python](./algorithms/367_valid_perfect_square.md#Python)/[C](./algorithms/367_valid_perfect_square.md#C)|36ms/0ms|
 |371|[两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)|[Python](./algorithms/371_sum_of_two_integers.md#Python)/[C](./algorithms/371_sum_of_two_integers.md#C)|32ms/0ms|
+|374|[猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)|[Python](./algorithms/374_guess_number_higher_or_lower.md#Python)/[C](./algorithms/374_guess_number_higher_or_lower.md#C)|12ms/ms|
 |520|[检测大写字母](https://leetcode-cn.com/problems/detect-capital/)|[Python](./algorithms/520_detect_capital.md#Python)/[C](./algorithms/520_detect_capital.md#C)|28ms/0ms|
 |557|[反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)|[Python](./algorithms/557_reverse_words_in_a_string_iii.md#Python)/[C](./algorithms/557_reverse_words_in_a_string_iii.md#C)|40ms/4ms|
 |566|[重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/)|[Python](./algorithms/566_reshape_the_matrix.md#Python)/[C](./algorithms/566_reshape_the_matrix.md#C)|80ms/12ms|
