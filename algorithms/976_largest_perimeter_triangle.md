@@ -10,7 +10,7 @@
 ```python
 class Solution:
     def largestPerimeter(self, A: List[int]) -> int:
-        # 把数组倒序排列，原则上肯定越大的数组成三角形周长越长。
+        # 把数组倒序排列，原则上肯定越长的边，组成的三角形周长越长。
         A.sort(reverse=True)
         i = 0
 
