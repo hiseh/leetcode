@@ -21,7 +21,7 @@ class Solution:
             i += 1
 
         # 如果找到，返回三个数之和，否则返回0
-        return A[i + 1] + A[i + 2] + A[i] if i < len(A) - 2 else 0
+        return sum(A[i: i+3]) if i < len(A) - 2 else 0
 
 ```
 ---
