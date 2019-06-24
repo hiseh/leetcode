@@ -25,6 +25,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |228|[汇总区间](https://leetcode-cn.com/problems/summary-ranges/)|[Python](./algorithms/228_Summary_Ranges.md#Python)/[C](./algorithms/228_Summary_Ranges.md#C)|36ms/8ms|
 |263|[丑数](https://leetcode-cn.com/problems/ugly-number/)|[Python](./algorithms/263_Ugly_Number.md#Python)/[C](./algorithms/263_Ugly_Number.md#C)|56ms/4ms|
 |235|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Python](./algorithms/235_lowest_common_ancestor_of_a_binary_search_tree.md#Python)/[C](./algorithms/235_lowest_common_ancestor_of_a_binary_search_tree.md#C)|88ms/40ms|
+|303|[区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)|[Python](./algorithms/303_range_sum_query-immutable.md#Python)/[C](./algorithms/303_range_sum_query-immutable.md#C)|1462ms/20ms|
 |367|[有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/)|[Python](./algorithms/367_valid_perfect_square.md#Python)/[C](./algorithms/367_valid_perfect_square.md#C)|36ms/0ms|
 |371|[两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)|[Python](./algorithms/371_sum_of_two_integers.md#Python)/[C](./algorithms/371_sum_of_two_integers.md#C)|32ms/0ms|
 |520|[检测大写字母](https://leetcode-cn.com/problems/detect-capital/)|[Python](./algorithms/520_detect_capital.md#Python)/[C](./algorithms/520_detect_capital.md#C)|28ms/0ms|
