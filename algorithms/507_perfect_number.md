@@ -1,4 +1,4 @@
-# 完美数
+# 完美数
 [返回首页](../README.md)
 
 思路有点类似确定一个数是不是质数，依然是遍历所有1～给定数平方根的数字，检查是否是因数。另外只有6/8结尾才可能是完美数（具体请参见欧几里得的完美数公式：如果2^p-1质数，那么（2^p-1）x 2^（p-1）便是一个完全数。），所以前面加点约束条件，可以提高效率。
@@ -33,7 +33,7 @@ bool checkPerfectNumber(int num) {
     for (int i = 2; i < floor(sqrt(num) + 1); i++) {
         if (num % i == 0) {
             sum_factor += i;
-            sum_factor += (int)num / i;
+            sum_factor += num / i;
         }
     }
     return sum_factor == num;
