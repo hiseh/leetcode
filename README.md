@@ -35,6 +35,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |557|[反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)|[Python](./algorithms/557_reverse_words_in_a_string_iii.md#Python)/[C](./algorithms/557_reverse_words_in_a_string_iii.md#C)|40ms/4ms|
 |566|[重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/)|[Python](./algorithms/566_reshape_the_matrix.md#Python)/[C](./algorithms/566_reshape_the_matrix.md#C)|80ms/12ms|
 |605|[种花问题](https://leetcode-cn.com/problems/can-place-flowers/)|[Python](./algorithms/605_can_place_flowers.md#Python)/[C](./algorithms/605_can_place_flowers.md#C)|48ms/8ms|
+|643|[子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)|[Python](./algorithms/643_maximum_average_subarray_i.md#Python)/[C](./algorithms/643_maximum_average_subarray_i.md#C)|148ms/120ms|
 |674|[最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)|[Python](./algorithms/674_Longest_Continuous_Increasing_Subsequence.md#Python)/[C](./algorithms/674_Longest_Continuous_Increasing_Subsequence.md#C)|40ms/4ms|
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)|[Python](./algorithms/680_valid_palindrome_ii.md#Python)/[C](./algorithms/680_valid_palindrome_ii.md#C)|256ms/24ms|
 |704|[二分查找](https://leetcode-cn.com/problems/binary-search)|[Python](./algorithms/704_binary_search.md#Python)/[C](./algorithms/704_binary_search.md#C)|48ms/12ms|
