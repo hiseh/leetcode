@@ -2,7 +2,7 @@
  * @Author: hiseh
  * @Date: 2019-02-14 21:58:41
  * @LastEditors: hiseh
- * @LastEditTime: 2019-07-24 11:47:51
+ * @LastEditTime: 2019-07-30 16:15:46
  * @Description: 刷题
  -->
 # leetcode
@@ -18,7 +18,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix)|[Python](./algorithms/14_Longest_Common_Prefix.md#Python)/[C](./algorithms/14_Longest_Common_Prefix.md#C)|36ms/4ms|
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)|[Python](./algorithms/20_valid_parentheses.md#Python)/[C](./algorithms/20_valid_parentheses.md#C)|36ms/0ms|
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[Python](./algorithms/26_remove_duplicates_from_sorted_array.md#Python)/[C](./algorithms/26_remove_duplicates_from_sorted_array.md#C)|56ms/8ms|
-|28|[实现strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[Python](./algorithms/28_implement_strstr.md#Python)/[C](./algorithms/28_implement_strstr.md#C)|32ms/264ms|
+|28|[实现strstr()](https://leetcode-cn.com/problems/implement-strstr/)|[Python](./algorithms/28_implement_strstr.md#Python)/[C](./algorithms/28_implement_strstr.md#C)|32ms/264ms|
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|[Python](./algorithms/35_search_insert_position.md#Python)/[C](./algorithms/35_search_insert_position.md#C)|36ms/0ms|
 |112|[路径总和](https://leetcode-cn.com/problems/path-sum/)|[Python](./algorithms/112_path_sum.md#Python)/[C](./algorithms/112_path_sum.md#C)|44ms/4ms|
 |121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./algorithms/121_best_time_to_buy_and_sell_stock.md#Python)/[C](./algorithms/121_best_time_to_buy_and_sell_stock.md#C)|44ms/0ms|
@@ -42,6 +42,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |507|[完美数](https://leetcode-cn.com/problems/perfect-number/)|[Python](./algorithms/507_perfect_number.md#Python)/[C](./algorithms/507_perfect_number.md#C)|40ms/0ms|
 |520|[检测大写字母](https://leetcode-cn.com/problems/detect-capital/)|[Python](./algorithms/520_detect_capital.md#Python)/[C](./algorithms/520_detect_capital.md#C)|28ms/0ms|
 |557|[反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)|[Python](./algorithms/557_reverse_words_in_a_string_iii.md#Python)/[C](./algorithms/557_reverse_words_in_a_string_iii.md#C)|40ms/4ms|
+|564|[寻找最近的回文数](https://leetcode-cn.com/problems/find-the-closest-palindrome/)|[Python](./algorithms/564_find_the_closest_palindrome.md#Python)/[C](./algorithms/564_find_the_closest_palindrome.md#C)|36ms/ms|
 |566|[重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/)|[Python](./algorithms/566_reshape_the_matrix.md#Python)/[C](./algorithms/566_reshape_the_matrix.md#C)|80ms/12ms|
 |605|[种花问题](https://leetcode-cn.com/problems/can-place-flowers/)|[Python](./algorithms/605_can_place_flowers.md#Python)/[C](./algorithms/605_can_place_flowers.md#C)|48ms/8ms|
 |643|[子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)|[Python](./algorithms/643_maximum_average_subarray_i.md#Python)/[C](./algorithms/643_maximum_average_subarray_i.md#C)|148ms/120ms|
