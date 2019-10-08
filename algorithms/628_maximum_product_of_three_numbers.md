@@ -2,13 +2,13 @@
  * @Author: Hiseh
  * @Date: 2019-10-08 17:28:29
  * @LastEditors: Hiseh
- * @LastEditTime: 2019-10-08 20:45:03
+ * @LastEditTime: 2019-10-08 20:52:04
  * @Description: 描述
  -->
 # 三个数的最大乘积
 [返回首页](../README.md)
 
-这道题需要考虑下负数问题，如果有负数时，需判断 `Min`<sub>`1`</sub> `× Min`<sub>`2`</sub>` × Max`<sub>`1`</sub> 是否大于 `Max`<sub>`1`</sub>` × Max`<sub>`2`</sub>` × Max`<sub>`3`</sub>
+这道题唯一费脑子的地方是要考虑负数的问题，如果有负数时，判断 `Min`<sub>`1`</sub> `× Min`<sub>`2`</sub>` × Max`<sub>`1`</sub> 是否大于 `Max`<sub>`1`</sub>` × Max`<sub>`2`</sub>` × Max`<sub>`3`</sub>
 
 ## Python
 ```python
