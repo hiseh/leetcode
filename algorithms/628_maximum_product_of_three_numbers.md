@@ -2,7 +2,7 @@
  * @Author: Hiseh
  * @Date: 2019-10-08 17:28:29
  * @LastEditors: Hiseh
- * @LastEditTime: 2019-10-08 20:53:57
+ * @LastEditTime: 2019-10-08 21:14:46
  * @Description: 描述
  -->
 # 三个数的最大乘积
@@ -29,7 +29,7 @@ class Solution:
 ---
 
 ## C
-Python的heapq库是堆排序，C没有默认的堆排序库，这里用快速排序代替（快速排序和堆排序的资料很好找，这里不再赘述）。其它思路同Python。
+Python的heapq库是堆排序，C没有默认的堆排序库，用自带的快排代替（快速排序和堆排序的资料很好找，这里不再赘述）。其它思路同Python。
 ```c
 #include <stdlib.h>
 
