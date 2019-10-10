@@ -2,7 +2,7 @@
  * @Author: hiseh
  * @Date: 2019-02-14 21:58:41
  * @LastEditors: Hiseh
- * @LastEditTime: 2019-10-08 20:40:05
+ * @LastEditTime: 2019-10-09 21:13:27
  * @Description: 刷题
  -->
 # leetcode
@@ -38,6 +38,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |371|[两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)|[Python](./algorithms/371_sum_of_two_integers.md#Python)/[C](./algorithms/371_sum_of_two_integers.md#C)|32ms/0ms|
 |374|[猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)|[Python](./algorithms/374_guess_number_higher_or_lower.md#Python)/[C](./algorithms/374_guess_number_higher_or_lower.md#C)|12ms/--ms|
 |387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|[Python](./algorithms/387_first_unique_character_in_a_string.md#Python)/[C](./algorithms/387_first_unique_character_in_a_string.md#C)|64ms/4ms|
+|391|[完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)|[Python](./algorithms/391_perfect_rectangle.md#Python)/[C](./algorithms/391_perfect_rectangle.md#C)|408ms/ms|
 |453|[最小移动次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|[Python](./algorithms/453_minimum_moves_to_equal_array_elements.md#Python)/[C](./algorithms/453_minimum_moves_to_equal_array_elements.md#C)|40ms/32ms|
 |507|[完美数](https://leetcode-cn.com/problems/perfect-number/)|[Python](./algorithms/507_perfect_number.md#Python)/[C](./algorithms/507_perfect_number.md#C)|40ms/0ms|
 |520|[检测大写字母](https://leetcode-cn.com/problems/detect-capital/)|[Python](./algorithms/520_detect_capital.md#Python)/[C](./algorithms/520_detect_capital.md#C)|28ms/0ms|
