@@ -2,7 +2,7 @@
  * @Author: Hiseh
  * @Date: 2019-10-09 10:24:36
  * @LastEditors: Hiseh
- * @LastEditTime: 2019-10-10 11:30:31
+ * @LastEditTime: 2019-10-10 11:31:37
  * @Description: 
  -->
 # 验证回文串
@@ -10,7 +10,7 @@
 
 其实就是检查统一大小写，去掉非字母和数字之后的字符串是否是回文串，非常简单。
 ## Python
-对于python3，正则比`string.translate`效率高（与py2正好相反）。
+对于py3，正则比`string.translate()`效率高（与py2正好相反）。
 ```python
 import re
 
