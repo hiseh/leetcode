@@ -2,7 +2,7 @@
  * @Author: hiseh
  * @Date: 2019-02-14 21:58:41
  * @LastEditors: Hiseh
- * @LastEditTime: 2019-10-09 21:13:27
+ * @LastEditTime: 2019-10-10 11:19:34
  * @Description: 刷题
  -->
 # leetcode
@@ -22,6 +22,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|[Python](./algorithms/35_search_insert_position.md#Python)/[C](./algorithms/35_search_insert_position.md#C)|36ms/0ms|
 |112|[路径总和](https://leetcode-cn.com/problems/path-sum/)|[Python](./algorithms/112_path_sum.md#Python)/[C](./algorithms/112_path_sum.md#C)|44ms/4ms|
 |121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./algorithms/121_best_time_to_buy_and_sell_stock.md#Python)/[C](./algorithms/121_best_time_to_buy_and_sell_stock.md#C)|44ms/0ms|
+|125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|[Python](./algorithms/125_valid_palindrome.md#Python)/[C](./algorithms/125_valid_palindrome.md#C)|36ms/0ms|
 |155|[最小栈](https://leetcode-cn.com/problems/min-stack/)|[Python](./algorithms/155_min_stack.md#Python)/[C](./algorithms/155_min_stack.md#C)|728ms/12ms|
 |190|[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits)|[Python](./algorithms/190_reverse_bits.md#Python)/[C](./algorithms/190_reverse_bits.md#C)|24ms/4ms|
 |203|[移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)|[Python](./algorithms/203_remove_linked_list_elements.md#Python)/[C](./algorithms/203_remove_linked_list_elements.md#C)|80ms/4ms|
