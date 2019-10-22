@@ -2,7 +2,7 @@
  * @Author: hiseh
  * @Date: 2019-02-14 21:58:41
  * @LastEditors: Hiseh
- * @LastEditTime: 2019-10-10 11:19:34
+ * @LastEditTime: 2019-10-22 15:31:05
  * @Description: 刷题
  -->
 # leetcode
@@ -52,6 +52,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |674|[最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)|[Python](./algorithms/674_Longest_Continuous_Increasing_Subsequence.md#Python)/[C](./algorithms/674_Longest_Continuous_Increasing_Subsequence.md#C)|40ms/4ms|
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)|[Python](./algorithms/680_valid_palindrome_ii.md#Python)/[C](./algorithms/680_valid_palindrome_ii.md#C)|256ms/24ms|
 |704|[二分查找](https://leetcode-cn.com/problems/binary-search)|[Python](./algorithms/704_binary_search.md#Python)/[C](./algorithms/704_binary_search.md#C)|48ms/12ms|
+|720|[词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/)|[Python](./algorithms/720_longest_word_in_dictionary.md#Python)/[C](./algorithms/720_longest_word_in_dictionary.md#C)|80ms/28ms|
 |784|[字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/)|[Python](./algorithms/784_letter_case_permutation.md#Python)/[C](./algorithms/784_letter_case_permutation.md#C)|68ms/32ms|
 |811|[子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/)|[Python](./algorithms/811_subdomain_visit_count.md#Python)/[C](./algorithms/811_subdomain_visit_count.md#C)|60ms/16ms|
 |821|[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)|[Python](./algorithms/821_shortest_distance_to_a_character.md#Python)/[C](./algorithms/821_shortest_distance_to_a_character.md#C)|48ms/8ms|
