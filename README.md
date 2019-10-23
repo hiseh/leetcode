@@ -2,7 +2,7 @@
  * @Author: hiseh
  * @Date: 2019-02-14 21:58:41
  * @LastEditors: Hiseh
- * @LastEditTime: 2019-10-22 15:31:05
+ * @LastEditTime: 2019-10-23 20:44:51
  * @Description: 刷题
  -->
 # leetcode
@@ -64,3 +64,4 @@ LeetCode Problems' Solutions using python &amp; c languages
 |976|[三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/)|[Python](./algorithms/976_largest_perimeter_triangle.md#Python)/[C](./algorithms/976_largest_perimeter_triangle.md#C)|72ms/24ms|
 |989|[数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|[Python](./algorithms/989_add_to_array_form_of_integer.md#Python)/[C](./algorithms/989_add_to_array_form_of_integer.md#C)|224ms/80ms|
 |1002|[查找常用字符](https://leetcode-cn.com/problems/find-common-characters/submissions/)|[Python](./algorithms/1002_find_common_characters.md#Python)/[C](./algorithms/1002_find_common_characters.md#C)|48ms/8ms|
+|1033|[移动石子直到连续](https://leetcode-cn.com/problems/moving-stones-until-consecutive/)|[Python](./algorithms/1033_moving_stones_until_consecutive.md#Python)/[C](./algorithms/1033_moving_stones_until_consecutive.md#C)|28ms/0ms|
