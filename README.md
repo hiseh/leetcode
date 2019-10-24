@@ -2,7 +2,7 @@
  * @Author: hiseh
  * @Date: 2019-02-14 21:58:41
  * @LastEditors: Hiseh
- * @LastEditTime: 2019-10-23 20:44:51
+ * @LastEditTime: 2019-10-24 17:38:21
  * @Description: 刷题
  -->
 # leetcode
@@ -58,6 +58,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |821|[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)|[Python](./algorithms/821_shortest_distance_to_a_character.md#Python)/[C](./algorithms/821_shortest_distance_to_a_character.md#C)|48ms/8ms|
 |872|[叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/)|[Python](./algorithms/872_leaf-similar_trees.md#Python)/[C](./algorithms/872_leaf-similar_trees.md#C)|32ms/0ms|
 |893|[特殊等价字符串组](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/)|[Python](./algorithms/893_groups_of_special-equivalent_strings.md#Python)/[C](./algorithms/893_groups_of_special-equivalent_strings.md#C)|36ms/0ms|
+|896|[单调数列](https://leetcode-cn.com/problems/monotonic-array/)|[Python](./algorithms/896_monotonic_array.md#Python)/[C](./algorithms/896_monotonic_array.md#C)|532ms/60ms|
 |917|[仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/)|[Python](./algorithms/917_reverse_only_letters.md#Python)/[C](./algorithms/917_reverse_only_letters.md#C)|24ms/0ms|
 |922|[按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|[Python](./algorithms/922_sort_array_by_parity_ii.md#Python)/[C](./algorithms/922_sort_array_by_parity_ii.md#C)|124ms/20ms|
 |949|[给定数字能组成的最大时间](https://leetcode-cn.com/problems/largest-time-for-given-digits/)|[Python](./algorithms/949_largest_time_for_given_digits.md#Python)/[C](./algorithms/949_largest_time_for_given_digits.md#C)|40ms/0ms|
