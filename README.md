@@ -2,7 +2,7 @@
  * @Author: hiseh
  * @Date: 2019-02-14 21:58:41
  * @LastEditors: Hiseh
- * @LastEditTime: 2019-10-24 17:38:21
+ * @LastEditTime: 2019-12-12 17:47:18
  * @Description: 刷题
  -->
 # leetcode
@@ -56,6 +56,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |784|[字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/)|[Python](./algorithms/784_letter_case_permutation.md#Python)/[C](./algorithms/784_letter_case_permutation.md#C)|68ms/32ms|
 |811|[子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count/)|[Python](./algorithms/811_subdomain_visit_count.md#Python)/[C](./algorithms/811_subdomain_visit_count.md#C)|60ms/16ms|
 |821|[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character/)|[Python](./algorithms/821_shortest_distance_to_a_character.md#Python)/[C](./algorithms/821_shortest_distance_to_a_character.md#C)|48ms/8ms|
+|855|[考场就座](https://leetcode-cn.com/problems/exam-room/)|[Python](./algorithms/855_exam_room.md#Python)/[C](./algorithms/855_exam_room.md#C)|364ms/20ms|
 |872|[叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/)|[Python](./algorithms/872_leaf-similar_trees.md#Python)/[C](./algorithms/872_leaf-similar_trees.md#C)|32ms/0ms|
 |893|[特殊等价字符串组](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/)|[Python](./algorithms/893_groups_of_special-equivalent_strings.md#Python)/[C](./algorithms/893_groups_of_special-equivalent_strings.md#C)|36ms/0ms|
 |896|[单调数列](https://leetcode-cn.com/problems/monotonic-array/)|[Python](./algorithms/896_monotonic_array.md#Python)/[C](./algorithms/896_monotonic_array.md#C)|532ms/60ms|
