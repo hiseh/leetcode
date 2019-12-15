@@ -2,7 +2,7 @@
  * @Author: Hiseh
  * @Date: 2019-12-12 18:10:23
  * @LastEditors: Hiseh
- * @LastEditTime: 2019-12-15 12:39:19
+ * @LastEditTime: 2019-12-15 12:40:59
  * @Description: 密钥格式化
  -->
 # 密钥格式化
@@ -23,7 +23,7 @@ class Solution:
 ---
 
 ## C
-这道题没有说明如何释放返回值，试错后才明白要调用者手动释放。
+题目里没有说明如何释放返回值，试错后才明白要调用者手动释放。
 借用Python思路，用C重写。
 ```c
 #include <stdlib.h>
