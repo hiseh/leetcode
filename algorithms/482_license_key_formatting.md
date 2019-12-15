@@ -2,7 +2,7 @@
  * @Author: Hiseh
  * @Date: 2019-12-12 18:10:23
  * @LastEditors: Hiseh
- * @LastEditTime: 2019-12-15 12:40:59
+ * @LastEditTime: 2019-12-15 12:43:21
  * @Description: 密钥格式化
  -->
 # 密钥格式化
@@ -43,8 +43,7 @@ char* licenseKeyFormatting(char* S, int K) {
     tmp_arr[result_len] = '\0';
 
     // 计算-的个数
-    int split_num =
-        (--result_len) % K == 0 ? result_len / K - 1 : result_len / K;
+    int split_num = (--result_len) % K == 0 ? result_len / K - 1 : result_len / K;
     result_len += split_num + 1;
 
     // 在堆上申请内存
