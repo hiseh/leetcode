@@ -2,7 +2,7 @@
  * @Author: hiseh
  * @Date: 2019-02-14 21:58:41
  * @LastEditors: Hiseh
- * @LastEditTime: 2019-12-12 17:47:18
+ * @LastEditTime: 2019-12-15 12:35:03
  * @Description: 刷题
  -->
 # leetcode
@@ -41,6 +41,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |387|[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|[Python](./algorithms/387_first_unique_character_in_a_string.md#Python)/[C](./algorithms/387_first_unique_character_in_a_string.md#C)|64ms/4ms|
 |391|[完美矩形](https://leetcode-cn.com/problems/perfect-rectangle/)|[Python](./algorithms/391_perfect_rectangle.md#Python)/[C](./algorithms/391_perfect_rectangle.md#C)|408ms/ms|
 |453|[最小移动次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/)|[Python](./algorithms/453_minimum_moves_to_equal_array_elements.md#Python)/[C](./algorithms/453_minimum_moves_to_equal_array_elements.md#C)|40ms/32ms|
+|482|[密钥格式化](https://leetcode-cn.com/problems/license-key-formatting/)|[Python](./algorithms/482_license_key_formatting.md#Python)/[C](./algorithms/482_license_key_formatting.md#C)|28ms/0ms|
 |507|[完美数](https://leetcode-cn.com/problems/perfect-number/)|[Python](./algorithms/507_perfect_number.md#Python)/[C](./algorithms/507_perfect_number.md#C)|40ms/0ms|
 |520|[检测大写字母](https://leetcode-cn.com/problems/detect-capital/)|[Python](./algorithms/520_detect_capital.md#Python)/[C](./algorithms/520_detect_capital.md#C)|28ms/0ms|
 |557|[反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)|[Python](./algorithms/557_reverse_words_in_a_string_iii.md#Python)/[C](./algorithms/557_reverse_words_in_a_string_iii.md#C)|40ms/4ms|
