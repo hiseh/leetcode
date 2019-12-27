@@ -2,7 +2,7 @@
  * @Author: hiseh
  * @Date: 2019-02-14 21:58:41
  * @LastEditors  : Hiseh
- * @LastEditTime : 2019-12-27 14:05:56
+ * @LastEditTime : 2019-12-27 21:02:59
  * @Description: 刷题
  -->
 # leetcode
@@ -66,6 +66,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |917|[仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/)|[Python](./algorithms/917_reverse_only_letters.md#Python)/[C](./algorithms/917_reverse_only_letters.md#C)|24ms/0ms|
 |922|[按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|[Python](./algorithms/922_sort_array_by_parity_ii.md#Python)/[C](./algorithms/922_sort_array_by_parity_ii.md#C)|124ms/20ms|
 |949|[给定数字能组成的最大时间](https://leetcode-cn.com/problems/largest-time-for-given-digits/)|[Python](./algorithms/949_largest_time_for_given_digits.md#Python)/[C](./algorithms/949_largest_time_for_given_digits.md#C)|40ms/0ms|
+|970|[强整数](https://leetcode-cn.com/problems/powerful-integers/)|[Python](./algorithms/970_powerful_integers.md#Python)/[C](./algorithms/970_powerful_integers.md#C)|24ms/ms|
 |976|[三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/)|[Python](./algorithms/976_largest_perimeter_triangle.md#Python)/[C](./algorithms/976_largest_perimeter_triangle.md#C)|72ms/24ms|
 |989|[数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|[Python](./algorithms/989_add_to_array_form_of_integer.md#Python)/[C](./algorithms/989_add_to_array_form_of_integer.md#C)|224ms/80ms|
 |1002|[查找常用字符](https://leetcode-cn.com/problems/find-common-characters/submissions/)|[Python](./algorithms/1002_find_common_characters.md#Python)/[C](./algorithms/1002_find_common_characters.md#C)|48ms/8ms|
