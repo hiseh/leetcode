@@ -2,7 +2,7 @@
  * @Author: Hiseh
  * @Date: 2019-12-16 14:49:11
  * @LastEditors  : Hiseh
- * @LastEditTime : 2019-12-27 14:06:22
+ * @LastEditTime : 2019-12-27 14:08:31
  * @Description: 
  -->
 # 只出现一次的数字
@@ -17,7 +17,7 @@ import functools
 
 class Solution:
     def singleNumber(self, nums: list) -> int:
-        return functools.reduce(lambda x, y: x ^ y, nums
+        return functools.reduce(lambda x, y: x ^ y, nums)
 ```
 ---
 
