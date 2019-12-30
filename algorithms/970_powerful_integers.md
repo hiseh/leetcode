@@ -2,7 +2,7 @@
  * @Author: Hiseh
  * @Date: 2019-12-16 14:49:11
  * @LastEditors  : Hiseh
- * @LastEditTime : 2019-12-30 16:21:48
+ * @LastEditTime : 2019-12-30 16:24:00
  * @Description: 
  -->
 # 强整数
@@ -36,7 +36,7 @@ class Solution:
 ---
 
 ## C
-用Python思路，自己实现笛卡尔积。另外c没有现成的函数可以计算以任意自然数为底的对数（标准库只有以*e/2/10*为底的对数），还好我们上过初中，知道*log<sub>n</sub><sup>a</sup> ÷ log<sub>n</sub><sup>b</sup> = log<sub>b</sub><sup>a</sup>*。
+用Python思路，需要自己实现笛卡尔积。另外c没有现成的函数可以计算以任意自然数为底的对数（标准库只有以*e/2/10*为底的对数），还好我们上过初中，知道*log<sub>n</sub><sup>a</sup> ÷ log<sub>n</sub><sup>b</sup> = log<sub>b</sub><sup>a</sup>*。
 ```c
 #include <math.h>
 #include <stdlib.h>
