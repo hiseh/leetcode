@@ -2,7 +2,7 @@
  * @Author: hiseh
  * @Date: 2019-02-14 21:58:41
  * @LastEditors  : Hiseh
- * @LastEditTime : 2019-12-30 16:14:58
+ * @LastEditTime : 2019-12-31 14:03:52
  * @Description: 刷题
  -->
 # leetcode
@@ -50,6 +50,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |564|[寻找最近的回文数](https://leetcode-cn.com/problems/find-the-closest-palindrome/)|[Python](./algorithms/564_find_the_closest_palindrome.md#Python)/[C](./algorithms/564_find_the_closest_palindrome.md#C)|36ms/ms|
 |566|[重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/)|[Python](./algorithms/566_reshape_the_matrix.md#Python)/[C](./algorithms/566_reshape_the_matrix.md#C)|80ms/12ms|
 |605|[种花问题](https://leetcode-cn.com/problems/can-place-flowers/)|[Python](./algorithms/605_can_place_flowers.md#Python)/[C](./algorithms/605_can_place_flowers.md#C)|48ms/8ms|
+|611|[有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number/)|[Python](./algorithms/611_valid_triangle_number.md#Python)/[C](./algorithms/611_valid_triangle_number.md#C)|248ms/12ms|
 |628|[三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)|[Python](./algorithms/628_maximum_product_of_three_numbers.md#Python)/[C](./algorithms/628_maximum_product_of_three_numbers.md#C)|292ms/42ms|
 |643|[子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)|[Python](./algorithms/643_maximum_average_subarray_i.md#Python)/[C](./algorithms/643_maximum_average_subarray_i.md#C)|148ms/120ms|
 |674|[最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)|[Python](./algorithms/674_Longest_Continuous_Increasing_Subsequence.md#Python)/[C](./algorithms/674_Longest_Continuous_Increasing_Subsequence.md#C)|40ms/4ms|
