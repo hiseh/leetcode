@@ -2,13 +2,13 @@
  * @Author: Hiseh
  * @Date: 2019-12-16 14:49:11
  * @LastEditors  : Hiseh
- * @LastEditTime : 2019-12-31 14:19:14
+ * @LastEditTime : 2020-01-01 09:33:53
  * @Description: 
  -->
 # 有效三角形的个数
 [返回首页](../README.md)
 
-最简单的办法是暴力破解，用组合方式找出所有可能（*C<sub>3</sub><sup>n</sup>*），然后根据三角形三边关系筛选。这么做时间和空间复杂度都相当高，为*θ(n･2<sup>n</sup>)*，不适用时间敏感的场合。
+最简单的办法是暴力破解，用组合方式找出所有可能（*C<sub>n</sub><sup>3</sup>*），然后根据三角形三边关系筛选。这么做时间和空间复杂度都相当高，为*θ(n･2<sup>n</sup>)*，不适用时间敏感的场合。
 ```python
 # 不考虑时间复杂度，一行代码搞定
 len(list(filter(lambda e: sum(e[0:2]) > e[2], map(sorted, itertools.combinations(nums, 3)))))
