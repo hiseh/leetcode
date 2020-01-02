@@ -2,7 +2,7 @@
  * @Author: hiseh
  * @Date: 2019-02-14 21:58:41
  * @LastEditors  : Hiseh
- * @LastEditTime : 2019-12-31 14:03:52
+ * @LastEditTime : 2020-01-02 15:23:20
  * @Description: 刷题
  -->
 # leetcode
@@ -20,6 +20,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[Python](./algorithms/26_remove_duplicates_from_sorted_array.md#Python)/[C](./algorithms/26_remove_duplicates_from_sorted_array.md#C)|56ms/8ms|
 |28|[实现strstr()](https://leetcode-cn.com/problems/implement-strstr/)|[Python](./algorithms/28_implement_strstr.md#Python)/[C](./algorithms/28_implement_strstr.md#C)|32ms/264ms|
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|[Python](./algorithms/35_search_insert_position.md#Python)/[C](./algorithms/35_search_insert_position.md#C)|36ms/0ms|
+|46|[全排列](https://leetcode-cn.com/problems/permutations/)|[Python](./algorithms/46_permutations.md#Python)/[C](./algorithms/46_permutations.md#C)|32ms/ms|
 |112|[路径总和](https://leetcode-cn.com/problems/path-sum/)|[Python](./algorithms/112_path_sum.md#Python)/[C](./algorithms/112_path_sum.md#C)|44ms/4ms|
 |121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./algorithms/121_best_time_to_buy_and_sell_stock.md#Python)/[C](./algorithms/121_best_time_to_buy_and_sell_stock.md#C)|44ms/0ms|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|[Python](./algorithms/125_valid_palindrome.md#Python)/[C](./algorithms/125_valid_palindrome.md#C)|36ms/0ms|
@@ -66,7 +67,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |896|[单调数列](https://leetcode-cn.com/problems/monotonic-array/)|[Python](./algorithms/896_monotonic_array.md#Python)/[C](./algorithms/896_monotonic_array.md#C)|532ms/60ms|
 |917|[仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/)|[Python](./algorithms/917_reverse_only_letters.md#Python)/[C](./algorithms/917_reverse_only_letters.md#C)|24ms/0ms|
 |922|[按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)|[Python](./algorithms/922_sort_array_by_parity_ii.md#Python)/[C](./algorithms/922_sort_array_by_parity_ii.md#C)|124ms/20ms|
-|949|[给定数字能组成的最大时间](https://leetcode-cn.com/problems/largest-time-for-given-digits/)|[Python](./algorithms/949_largest_time_for_given_digits.md#Python)/[C](./algorithms/949_largest_time_for_given_digits.md#C)|40ms/0ms|
+|949|[给定数字能组成的最大时间](https://leetcode-cn.com/problems/largest-time-for-given-digits/)|[Python](./algorithms/949_largest_time_for_given_digits.md#Python)/[C](./algorithms/949_largest_time_for_given_digits.md#C)|40ms/4ms|
 |970|[强整数](https://leetcode-cn.com/problems/powerful-integers/)|[Python](./algorithms/970_powerful_integers.md#Python)/[C](./algorithms/970_powerful_integers.md#C)|24ms/0ms|
 |976|[三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle/)|[Python](./algorithms/976_largest_perimeter_triangle.md#Python)/[C](./algorithms/976_largest_perimeter_triangle.md#C)|72ms/24ms|
 |989|[数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|[Python](./algorithms/989_add_to_array_form_of_integer.md#Python)/[C](./algorithms/989_add_to_array_form_of_integer.md#C)|224ms/80ms|
