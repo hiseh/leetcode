@@ -2,7 +2,7 @@
  * @Author: hiseh
  * @Date: 2019-02-14 21:58:41
  * @LastEditors  : Hiseh
- * @LastEditTime : 2020-01-02 15:23:20
+ * @LastEditTime : 2020-02-12 15:35:25
  * @Description: 刷题
  -->
 # leetcode
@@ -17,7 +17,9 @@ LeetCode Problems' Solutions using python &amp; c languages
 |13|[罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)|[Python](./algorithms/13_roman_to_integer.md#Python)/[C](./algorithms/13_roman_to_integer.md#C)|128ms/44ms|
 |14|[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix)|[Python](./algorithms/14_Longest_Common_Prefix.md#Python)/[C](./algorithms/14_Longest_Common_Prefix.md#C)|36ms/4ms|
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)|[Python](./algorithms/20_valid_parentheses.md#Python)/[C](./algorithms/20_valid_parentheses.md#C)|36ms/0ms|
+|22|[生成括号](https://leetcode-cn.com/problems/generate-parentheses/)|[Python](./algorithms/22_generate_parentheses.md#Python)/[C](./algorithms/22_generate_parentheses.md#C)|ms/ms|
 |26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[Python](./algorithms/26_remove_duplicates_from_sorted_array.md#Python)/[C](./algorithms/26_remove_duplicates_from_sorted_array.md#C)|56ms/8ms|
+|27|[移除元素](https://leetcode-cn.com/problems/remove-element/)|[Python](./algorithms/27_remove_element.md#Python)/[C](./algorithms/27_remove_element.md#C)|28ms/4ms|
 |28|[实现strstr()](https://leetcode-cn.com/problems/implement-strstr/)|[Python](./algorithms/28_implement_strstr.md#Python)/[C](./algorithms/28_implement_strstr.md#C)|32ms/264ms|
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)|[Python](./algorithms/35_search_insert_position.md#Python)/[C](./algorithms/35_search_insert_position.md#C)|36ms/0ms|
 |46|[全排列](https://leetcode-cn.com/problems/permutations/)|[Python](./algorithms/46_permutations.md#Python)/[C](./algorithms/46_permutations.md#C)|32ms/ms|
@@ -54,6 +56,7 @@ LeetCode Problems' Solutions using python &amp; c languages
 |611|[有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number/)|[Python](./algorithms/611_valid_triangle_number.md#Python)/[C](./algorithms/611_valid_triangle_number.md#C)|248ms/12ms|
 |628|[三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)|[Python](./algorithms/628_maximum_product_of_three_numbers.md#Python)/[C](./algorithms/628_maximum_product_of_three_numbers.md#C)|292ms/42ms|
 |643|[子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)|[Python](./algorithms/643_maximum_average_subarray_i.md#Python)/[C](./algorithms/643_maximum_average_subarray_i.md#C)|148ms/120ms|
+|659|[分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/)|[Python](./algorithms/659_split_array_into_consecutive_subsequences.md#Python)/[C](./algorithms/659_split_array_into_consecutive_subsequences.md#C)|ms/ms|
 |674|[最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)|[Python](./algorithms/674_Longest_Continuous_Increasing_Subsequence.md#Python)/[C](./algorithms/674_Longest_Continuous_Increasing_Subsequence.md#C)|40ms/4ms|
 |680|[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)|[Python](./algorithms/680_valid_palindrome_ii.md#Python)/[C](./algorithms/680_valid_palindrome_ii.md#C)|256ms/24ms|
 |704|[二分查找](https://leetcode-cn.com/problems/binary-search)|[Python](./algorithms/704_binary_search.md#Python)/[C](./algorithms/704_binary_search.md#C)|48ms/12ms|
