@@ -2,7 +2,7 @@
  * @Author: Hiseh
  * @Date: 2020-02-11 16:16:33
  * @LastEditors  : Hiseh
- * @LastEditTime : 2020-02-12 15:43:56
+ * @LastEditTime : 2020-02-12 18:22:33
  * @Description: 移除元素 
  -->
 # 移除元素
@@ -24,7 +24,7 @@ class Solution:
 ---
 
 ## C
-C没有现成函数，分析Python的`remove`函数代码：
+C没有现成函数，分析Python的`remove`函数，代码如下：
 ```c
 static PyObject *
 list_remove(PyListObject *self, PyObject *value) {
@@ -45,7 +45,7 @@ list_remove(PyListObject *self, PyObject *value) {
     return NULL;
 }
 ```
-逻辑很简单，因为只删掉第一个符合条件的字符，所以删掉后直接把后面字符补上去。其实思路是双指针思路：遇到符合条件的元素时，最后一个元素复制到当前位置，并释放最后一个元素。
+因为函数只删掉第一个符合条件的字符，所以删掉后直接把后面字符补上去。其实思路是双指针思路：遇到符合条件的元素时，最后一个元素复制到当前位置，并释放最后一个元素。
 > btw，`list_ass_slice`函数用递归实现，怪不得大数组下这么慢呢
 ```c
 int removeElement(int* nums, int numsSize, int val) {
